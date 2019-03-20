@@ -1,2 +1,2 @@
 # moonlight
-Source files for Limelight theme
+Source files for unreleased Moonlight theme
